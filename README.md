@@ -1,11 +1,12 @@
-```c
-#include <awesomeness.h>
-#include <consistency.h>
+```c++
+#include <awesomeness>
+#include <consistency>
+#include <discipline>
 
 void whoami()
 {
-    char identity[] = "computer security researcher";
-    char likes[] = "reverse-engineering, binary-exploitation, python, c";
-    char pronouns[] = "she/her";
+    string identity = "offensive security researcher";
+    string likes = "c++, python, reverse engineering, red teaming, pentesting, malware development";
+    string passion = "hacking, mixed martial arts";
 }
 ```
