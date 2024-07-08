@@ -1,12 +1,8 @@
-```c++
-#include <awesomeness>
-#include <consistency>
-#include <discipline>
+```nim
+import awesomeness, consistency, discipline
 
-void whoami()
-{
-    string identity = "offensive security researcher";
-    string likes = "c++, nim, reverse engineering, red teaming, pentesting, malware development";
-    string passion = "hacking, mixed martial arts";
-}
+proc whoami() =
+    var identity = "offensive security researcher";
+    var likes = "nim, reverse engineering, red teaming, malware development";
+    let passion = "hacking, mixed martial arts";
 ```
