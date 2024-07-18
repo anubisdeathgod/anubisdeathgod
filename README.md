@@ -14,9 +14,4 @@ void whoami() {
     cout << "Likes: " << likes << endl;
     cout << "Passion: " << passion << endl;
 }
-
-int main() {
-    whoami(); // Call the function to print the information
-    return 0;
-}
 ```
