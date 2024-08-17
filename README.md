@@ -1,13 +1,15 @@
-```cpp
-#include "awesomeness.h"
-#include "consistency.h"
-#include "discipline.h"
+```go
+package main
 
-using namespace std;
+import (
+	"awesomeness"
+    "wisdom"
+    "discipline"
+)
 
-void whoami() {
-    const string identity = "offensive security researcher";
-    const string likes = "golang, c++, reverse engineering, red teaming, malware development";
-    const string passion = "hacking, mixed martial arts";
+func whoami() {
+	identity := "offensive security researcher"
+	likes := "golang, reverse engineering, red teaming, malware development"
+	passion := "hacking, mixed martial arts"
 }
 ```
