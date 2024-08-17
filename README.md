@@ -1,8 +1,6 @@
 ```go
-package main
-
 import (
-	"awesomeness"
+    "awesomeness"
     "wisdom"
     "discipline"
 )
