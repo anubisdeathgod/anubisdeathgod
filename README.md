@@ -7,7 +7,7 @@ import (
 
 func whoami() {
 	identity := "offensive security researcher"
-	likes := "golang, reverse engineering, red teaming, malware development"
+	likes := "golang, red teaming, malware development"
 	passion := "hacking, mixed martial arts"
 }
 ```
