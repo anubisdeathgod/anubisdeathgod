@@ -11,4 +11,4 @@ func whoami() {
 	passion := "hacking, mixed martial arts"
 }
 ```
-I'm a fucking golang enjoyer, <img src="https://miro.medium.com/v2/resize:fit:1400/1*Z5FdBMXzl5PGHt8AVfslcw.gif" alt="Go Logo" width="100"/>
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*Z5FdBMXzl5PGHt8AVfslcw.gif" alt="Go Logo" width="100"/>
