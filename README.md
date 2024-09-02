@@ -1,4 +1,4 @@
-```go
+```cpp
 #include <awesomeness>
 #include <wisdom>
 #include <discipline>
